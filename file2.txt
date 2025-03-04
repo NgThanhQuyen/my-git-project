@@ -1,2 +1,6 @@
 "This is file 2" 
+<<<<<<< HEAD
 "Change in file2.txt from main" 
+=======
+"Change in file2.txt from feature-branch" 
+>>>>>>> feature-branch
